@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+# Las imágenes originales tienen derechos de terceros: no se versionan.
+originales/tiroides/*
+originales/clima/*
+!originales/tiroides/.gitkeep
+!originales/clima/.gitkeep
