@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -216,3 +217,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+=======
+__pycache__/
+*.pyc
+.venv/
+# Las imágenes originales tienen derechos de terceros: no se versionan.
+originales/tiroides/*
+originales/clima/*
+!originales/tiroides/.gitkeep
+!originales/clima/.gitkeep
+>>>>>>> 446db7f (Trabajos iniciales en el proyecto)
